@@ -1,5 +1,5 @@
 // script.js
-function playMusic(fileName) {
+function playMusic(music) {
   const audio = new Audio(music);
   audio.play();
 }
