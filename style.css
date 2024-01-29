@@ -1,0 +1,22 @@
+/* style.css */
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#audioPlayer {
+  margin-top: 20px;
+}
+
+#audioPlayer button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#audioPlayer button:hover {
+  background-color: #45a049;
+}
